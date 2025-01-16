@@ -36,19 +36,19 @@ The trends in total sales, gross profit, transaction count, and ABV have increas
 
 # Insights Deep Dive
 ### Total Sales:
-* Although the overall sales constantly increased from 2022 to 2024, the percentage of sales increase in 2023 (22%) is much higher than in 2024 (5.4%). The yearly trend in sales in 2024 also had more flunctuations compared to 2023. This is shown in the drastic drop in sales growth and transanction count growth in November 2024. 
-* The number of sales always peaked in December, demonstrating high shopping demand during holiday season. January and February are usually the period with the lowest sales, suggesting customers spend less post-holiday.
+* Although the overall sales constantly increased from 2022 to 2024, the percentage of sales increase in 2023 (22%) was much higher than in 2024 (5.4%). The yearly trend in sales in 2024 also had more flunctuations compared to 2023. This is shown in the drastic drop in sales growth and transanction count growth in November 2024. 
+* The number of sales always peaked in December, demonstrating high shopping demand during holiday season. January and February were usually the period with the lowest sales, suggesting customers spend less post-holiday.
 * Department 'Grocery' had the highest number of sales in all 3 years. However, sales by grocery in 2024 is lower than in 2023. Sales of all other departments, except Produce and General Merchandise, also decreased in 2024, although not significantly.
 
 ### Total Profit:
 
-* The gross profit in 2024 increased 6.7% compared to gross profit in 2023, indicating a positive improvement Cornucopia has in making profit. 
+* The gross profit in 2024 increased 6.7% compared to gross profit in 2023, indicating a positive improvement Cornucopia had in making profit. 
 
 ### Total Transaction:
 
-* The trend in total transaction follows the similar pattern with the trend in sales. The percentage difference between 2022 and 2023 (increased 15.7%) is much higher than the percentage difference between 2023 and 2024 (increased 15.3%). Cornucopia had a drastically positive change from 2022 to 2023, but that change has slowed down in 2024.
+* The trend in total transaction followed the similar pattern with the trend in sales. The percentage difference between 2022 and 2023 (increased 15.7%) was much higher than the percentage difference between 2023 and 2024 (increased 15.3%). Cornucopia had a drastically positive change from 2022 to 2023, but that change slowed down in 2024.
   
-* From 2022 to 2023, the number of transaction also peaked in December and plummeted to the lowest in February. In 2024, the lowest transaction count occurred in November and the highest occurred in October. Because the transaction count in 2024 were relatively stable throughout the months, all ranging from 3.9K to 4.6K, so this out-of-trend pattern cannot conclude any abnormality. 
+* From 2022 to 2023, the number of transaction also peaked in December and plummeted to the lowest in February. In 2024, the lowest transaction count occurred in November and the highest occurred in October. Because the transaction count in 2024 were relatively stable throughout the months, all ranging from 3.9K to 4.6K, so this out-of-trend pattern could not conclude any abnormality. 
 
 ### Average Basket Value (ABV):
 
