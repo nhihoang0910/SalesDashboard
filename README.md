@@ -17,7 +17,7 @@ For privacy concern, the Excel files used for this dashboard will not be include
 
 # Data Structure & Initial Checks
 
-The datasets I work with consists of 3 tables: Overall Sales, Sales by Departments, COGS 
+The datasets I work with consists of 3 tables: **Overall Sales, Sales by Departments, Cost of Goods Sold (COGS)**
 - **Sales:** This table contains number of total sales, total transaction, and ABV for each month from 2022 to 2024
 - **Sales by Department:** This table contains number of sales for each department, including: Alcohol, Body Care, Cheese, Choc/Candy, Deli, Eat In, Grocery, Produce, Supplements, General Merchandise, Soft Drinks, and Wholesale
 - **Cost of Goods Sold:** This table contains the Cost of Goods Sold percentages, which are used for calculating gross profit
