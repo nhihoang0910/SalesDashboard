@@ -27,11 +27,7 @@ The datasets I work with consists of 3 tables: **Overall Sales, Sales by Departm
 ### Overview of Findings
 The trends in total sales, gross profit, transaction count, and ABV have increased steadily from 2022 to 2024. The number of sales always peaked in December and reached the lowest point around January to February. The trend in sales by departments followed the same patterns over the years with Grocery had the highest record.
 
-![Dashboard 1](https://github.com/user-attachments/assets/dc3de2cc-54bc-4b89-a15c-18f89d0e4e7e)
-![Dashboard 1 (1)](https://github.com/user-attachments/assets/6e4cf1cc-292d-47e9-84cb-4e6f76ade3cb)
-![Dashboard 1 (2)](https://github.com/user-attachments/assets/525a1b2d-81a6-473b-b767-20553f888baf)
-
-
+<img width="1194" alt="Sales Visualization" src="https://github.com/user-attachments/assets/86cf9cc3-fbd9-41bd-abf7-a2475346b676" />
 
 
 # Insights Deep Dive
